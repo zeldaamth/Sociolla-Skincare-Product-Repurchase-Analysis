@@ -1,7 +1,5 @@
 # Sociolla-Skincare-Product-Repurchase-Analysis
 
-# Sociolla Skincare Product & Repurchase Analysis
-
 **Python · Pandas · Scikit-learn · Power BI · Data Visualization**
 
 ### Overview
